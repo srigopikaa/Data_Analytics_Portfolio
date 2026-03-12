@@ -1,7 +1,7 @@
 **E-Commerce-Analytics-SQL:**
 SQL-based E-commerce Analytics Project E-Commerce Analytics Using SQL
 
-**Project Overview: **
+**Project Overview:**
 Performed end-to-end data analysis on the Olist Brazilian E-Commerce Dataset (available on Kaggle) to analyze customer behavior, sales trends, and revenue performance. The project focused on transforming raw transactional data into actionable business insights using advanced SQL techniques.
 
 **Dataset Tables:** 
