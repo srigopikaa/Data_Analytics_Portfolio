@@ -17,4 +17,4 @@ This project demonstrates several intermediate to advanced SQL techniques, inclu
 5.Stored Procedures for reusable analysis queries
 6.Date Functions to analyze trends over time.
 
-The list of queries used to perform above mentioned concept are available in healthcare_project folder and named as healthcare_project.sq
+The list of queries used to perform above mentioned concept are available in healthcare_project folder and named as healthcare_project.sql
